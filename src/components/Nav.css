@@ -1,0 +1,17 @@
+.Nav {
+    display: flex;
+    gap: 10px;
+}
+
+.NavLink__a {
+    border-bottom: 1px solid black;
+}
+
+.isActive {
+    color: red;
+}
+
+
+.isActive:hover {
+    color: green;
+}
